@@ -25,6 +25,7 @@ class MainActivity : AppCompatActivity(), GoogleMap.OnMyLocationButtonClickListe
     private val REQUEST_LOCATION_CODE = 1
 
     //change local dev
+    //second change local dev
 
 
     override fun onMyLocationClick(location: Location) {
